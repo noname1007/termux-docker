@@ -7,13 +7,13 @@ This repo is a combination of [this](https://github.com/egandro/docker-qemu-arm)
   Create the virtual machine with:
   
   ``` sh
-  curl -o setup.sh https://raw.githubusercontent.com/Zeioth/termux-docker/main/setup.sh && chmod 755 ./setup.sh && ./setup.sh
+  curl -o setup.sh https://raw.githubusercontent.com/noname1007/termux-docker/main/setup.sh && chmod 755 ./setup.sh && ./setup.sh
   ```
 
   And start it with:
   
   ``` sh
-  # Login credentials → USER: root PASSWORD: groovy
+  # Login credentials → USER: root PASSWORD: noname1007
   ~/alpine/startqemu.sh
   ```
   
